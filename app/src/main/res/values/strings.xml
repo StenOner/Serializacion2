@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Serializacion2</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_edttexto">Escriba el Contenido</string>
+    <string name="sp_color_barra">COLOR_BARRA</string>
+    <string name="txt_btnsave">Guardar</string>
+    <string name="txt_btnload">Cargar</string>
+    <string name="txt_name_file">Nombre del Fichero</string>
+    <string name="action_almint">Almacenamiento Interno</string>
+    <string name="txt_agregar">Agregar</string>
+    <string name="action_almext">Almacenamiento Externo</string>
+</resources>
